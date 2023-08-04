@@ -9,6 +9,24 @@ const questions = [{
     name: 'title',
     message: 'What is the title of your project?',
     default: 'Project Title'
+},
+{
+    type: 'input',
+    name: 'description',
+    message: 'What is the description for your project?',
+    default: 'Description here'
+},
+{
+    type: 'input',
+    name: 'installation',
+    message: 'What are the installation instructions for your project?',
+    default: 'Install project like this'
+},
+{
+    type: 'input',
+    name: 'usage',
+    message: 'How do you use this project?',
+    default: 'This is how it works...'
 }
 //what is the title of the project?
 //what is the description of the project?
