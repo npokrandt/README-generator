@@ -24,6 +24,11 @@ export const generateMarkdown = (data) => {
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
+  - [Credits](#credits)
+  - [Features](#features)
+  - [Contribution](#contribution)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
   ## Installation
   
@@ -35,17 +40,33 @@ export const generateMarkdown = (data) => {
 
   ## Credits
 
+  ${data.credits}
+
   ## License
 
   ## Badges
 
   ## Features 
 
-  ## How to Contribute
+  ${data.features}
+
+  ## Contribution
+
+  ${data.contribution}
 
   ## Tests
 
+  ${data.tests}
+
   ## Questions
+
+  Check out my github profile (${data.username}):
+
+  https://github.com/${data.username}
+
+  If you have any questions about this project, email me at:
+
+  ${data.email}
 
 `;
 }

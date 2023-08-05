@@ -27,11 +27,43 @@ const questions = [{
     name: 'usage',
     message: 'How do you use this project?',
     default: 'This is how it works...'
-}
-//what is the title of the project?
-//what is the description of the project?
-//what is the project's usage?
-//how do you install the project?
+},
+{
+    type: 'input',
+    name: 'credits',
+    message: 'What are the project credits?',
+    default: 'These people assisted me:'
+},
+//license and badge for later
+{
+    type: 'input',
+    name: 'features',
+    message: 'What features of the project would you like to highlight?',
+    default: 'features:'
+},
+{
+    type: 'input',
+    name: 'contribution',
+    message: 'How can people contribute to your project?',
+    default: 'Here\'s how you can help'
+},
+{
+    type: 'input',
+    name: 'tests',
+    message: 'What tests would you like to add to your project?',
+    default: 'Try these tests:'
+},
+{
+    type: 'input',
+    name: 'username',
+    message: 'What is your github username?',
+},
+{
+    type: 'input',
+    name: 'email',
+    message: 'What is your email address?',
+},
+
 //what are tests for the project?
 //how can you contribute to the project?
 //what license would you like to use?
