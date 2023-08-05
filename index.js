@@ -34,7 +34,13 @@ const questions = [{
     message: 'What are the project credits?',
     default: 'These people assisted me:'
 },
-//license and badge for later
+{
+    type: 'list',
+    name: 'license',
+    message: 'What license are you using?',
+    choices: ['none', 'Apache License 2.0', 'Boost Software License 1.0', 'BSD 2-Clause "Simplified" License', 'BSD 3-Clause "New" or "Revised" License', 'Creative Commons Zero v1.0 Universal', 'Eclipse Public License 2.0', 'GNU Affero General Public License v3.0', 'GNU General Public License v3.0', 'GNU General Public License v2.0', 'GNU Lesser General Public License v2.1', 'MIT License', 'Mozilla Public License 2.0', 'The Unlicense'],
+    default: 'none'
+},
 {
     type: 'input',
     name: 'features',

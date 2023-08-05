@@ -1,3 +1,5 @@
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+
 # Test
 
   ## Description
@@ -30,7 +32,7 @@
 
   ## License
 
-  ## Badges
+  none
 
   ## Features 
 
@@ -46,11 +48,11 @@
 
   ## Questions
 
-  Check out my github profile (npokrandt):
+  Check out my github profile ():
 
-  https://github.com/npokrandt
+  https://github.com/
 
   If you have any questions about this project, email me at:
 
-  h@l.com
+  
 
