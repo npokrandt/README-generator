@@ -1,6 +1,7 @@
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
-# Test
+  
+  
+  # Test
 
   ## Description
   
@@ -11,12 +12,14 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [License](#license)
+   - [license](#License)
   - [Credits](#credits)
   - [Features](#features)
   - [Contribution](#contribution)
   - [Tests](#tests)
   - [Questions](#questions)
+
+  ## Badges
 
   ## Installation
   
@@ -31,8 +34,8 @@
   These people assisted me:
 
   ## License
-
-  none
+  
+  Apache License 2.0
 
   ## Features 
 
