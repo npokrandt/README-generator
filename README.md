@@ -13,6 +13,7 @@ The user will run the index file on their command line of choice. They will be a
 # Link
 
 This video will show how the program is used:
+https://www.loom.com/share/1eecc9658f3b4a9dbcb6259b065da3ac?sid=5dc571bc-7a64-49aa-a8e0-6462dacdd985
 
 # Credits
 
